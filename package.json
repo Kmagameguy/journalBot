@@ -12,11 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "deepai": "^1.0.17",
-    "express": "^4.17.1",
-    "socket.io": "^2.4.1"
+    "deepai": "^1.0.20",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.15"
   }
 }
